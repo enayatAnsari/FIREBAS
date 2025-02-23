@@ -6,6 +6,7 @@ let inputValid = () => {
         username.nextElementSibling.style.display = 'block'
         return;
     }
+    
     username.nextElementSibling.style.display = 'none';
     
 }
